@@ -33,9 +33,9 @@ def modulo (num1,num2)
 end
 modulo(26, 5)
 
-def square_root (num1,num2)
-  num = num1**num2
-  puts num
-  num
+def square_root (num)
+  sum = num**
+  puts sum
+  sum
 end
-square_root(5, 5)
+square_root(5,)
