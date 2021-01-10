@@ -6,7 +6,7 @@ end
 addition(2,1)
 
 def subtraction(num1, num2)
-  sum = num2-num1
+  sum = num1-num2
   puts sum
   sum
 end
