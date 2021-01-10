@@ -10,5 +10,3 @@ puts sum
 sum
 end
 subtraction(15, 10)
-
-
