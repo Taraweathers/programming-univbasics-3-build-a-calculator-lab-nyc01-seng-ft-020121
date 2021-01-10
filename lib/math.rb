@@ -10,8 +10,7 @@ sum = num1-num2
 puts sum
 sum
 end
-subtration(2,1)
-
+subtraction(15, 10)
 
 end
 
