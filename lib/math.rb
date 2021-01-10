@@ -34,8 +34,8 @@ end
 modulo(26, 5)
 
 def square_root (num1,num2)
-  sum = num1**num2
-  puts sum
-  sum
+  num = num1**num2
+  puts num
+  num
 end
 square_root(5, 5)
