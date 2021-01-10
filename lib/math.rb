@@ -1,8 +1,10 @@
 def addition (num1, num2)
-  num2+num1
+  num2 + num1 = sum
+  sum = num2 + num1
+  puts sum
 
 end
-addition(1,2)
+addition(2,1)
 
 end
 
