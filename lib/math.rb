@@ -27,7 +27,7 @@ end
 division(50, 5)
 
 def modulo (num1,num2)
-  sum = num1|num2
+  sum = num1%num2
   puts sum
   sum
 end
