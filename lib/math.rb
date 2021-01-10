@@ -38,4 +38,4 @@ def square_root (num)
   puts sum
   sum
 end
-square_root(5,)
+square_root(5)
