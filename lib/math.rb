@@ -3,12 +3,12 @@ sum = num2+num1
 puts sum
 sum
 end
-addition(2,1)
+
 
 def subtraction(num1, num2)
-  sum = num1-num2
-  puts sum
-  sum
+sum = num1-num2
+puts sum
+sum
 end
 subtration(2,1)
 
