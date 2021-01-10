@@ -34,7 +34,7 @@ end
 modulo(26, 5)
 
 def square_root (num)
-  sum = num**
+  sum = Math.sqrt(num)
   puts sum
   sum
 end
